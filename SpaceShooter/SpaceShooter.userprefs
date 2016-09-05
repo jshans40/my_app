@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\02_Scripts\GameMgr.cs">
+    <Files>
+      <File FileName="Assets\02_Scripts\PlayerCtrl.cs" Line="102" Column="44" />
+      <File FileName="Assets\02_Scripts\BulletCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\02_Scripts\FireCtrl.cs" Line="39" Column="21" />
+      <File FileName="Assets\02_Scripts\RemoveBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\02_Scripts\BarrelCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets\02_Scripts\MonsterCtrl.cs" Line="147" Column="1" />
+      <File FileName="Assets\02_Scripts\GameMgr.cs" Line="30" Column="50" />
+      <File FileName="Assets\02_Scripts\MyGizoms.cs" Line="13" Column="1" />
+      <File FileName="Assets\02_Scripts\UIMgr.cs" Line="18" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
